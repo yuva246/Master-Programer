@@ -1,0 +1,55 @@
+ .purple-color{
+      color: #ff0000;
+ }
+ body { 
+ font-family: fantasy;
+ color: #777777;
+ line-height: 26px;
+ }
+ .half-width{
+ width: 50%;
+ float: left;
+ }
+ side-img { 
+ width: 50%;
+ padding-left: 25%;
+ }
+ <div class="half-width">
+ <img class="side image" src="mp.png"alt="">
+ .primary-btn{
+    color: black;
+    background-color: #8845f4;,#ff0000;,#777777;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+}
+ .primary-btn{
+    color: black;
+    background-color: #8BC34A;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+   .container{
+   padding-left: 5%;
+   display: inline-block;
+   }
+   
+   .experiences{
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+ }
+ .experience-item{
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+ }
+
+
+
+
+ 
+ 
+ 
+ 
